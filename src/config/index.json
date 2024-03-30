@@ -1,89 +1,89 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Jeep Merapi Jogjakarta",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Jeep dan ATV",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Testimoni",
       "href": "features"
     },
 
     {
-      "name": "Pricing",
+      "name": "Paket Wisata ",
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Tentang Kami",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
-    "href": "#"
+    "text": "Hubungi Kami",
+    "href": "https://wa.link/brj1c6"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Mau Sewa ",
+    "subtitle": "Jeep/ATV Kaliurang ?",
+    "description": "Kaliurang merupakan daerah wisata di sebelah utara Yogyakarta yang menawarkan berbagai wisata. Dengan Jeep dan ATV, anda akan mendapat pengalaman berbeda dalam berwisata",
+    "img": "/assets/images/merapiheroImage.jpg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Hubungi Kami",
+      "href": "https://wa.link/brj1c6"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Instagram kami",
+      "href": "https://www.instagram.com/kodingkidsjogja"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Kami menyediakan Jeep dan ATV",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Jeep Wisata",
+        "description": "berpetualang dengan jeep wisata dengan mengunjungi tempat-tempat seperti ... rasakan pengalaman baru dalam berwisata di kaliurang",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "ATV",
+        "description": "Selain dengan mobil Jeep, kami menyediakan petualangan dengan ATV. Tidak kalah seru dengan Jeep, ATV memberikan pengalaman seru dalam berwisata",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Testimoni dari tamu ",
+    "subtitle": "Berikut testimoni dari tamu yang puas akan pelayanan kami",
+    "description": "Tamu memberikan testimoni mereka secara sukarela dan mendapat pengalaman menyenangkan dengan wisata kami",
     "items": [
       {
-        "name": "React.js",
+        "name": "Tamu A",
         "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
+        "name": "Tamu B",
         "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
+        "name": "Tamu C",
         "description": "Next.js is a framework for server-rendered React applications using Next.js.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
+        "name": "Tamu D",
         "description": "TypeScript is a programming language developed and maintained by Microsoft.",
         "icon": "/assets/images/ts.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Harga Paket Kami",
     "items": [
       {
         "name": "Free",
