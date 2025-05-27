@@ -1,11 +1,11 @@
 {
   "company": {
-    "name": "Jeep Merapi Jogjakarta",
+    "name": "Outbound Sobo Kali",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Jeep dan ATV",
+      "name": "Paket Outbound",
       "href": "product"
     },
     {
@@ -14,7 +14,7 @@
     },
 
     {
-      "name": "Paket Wisata ",
+      "name": "Paket Wisata lain",
       "href": "pricing"
     },
     {
@@ -27,9 +27,9 @@
     "href": "https://wa.link/brj1c6"
   },
   "mainHero": {
-    "title": "Mau Sewa ",
-    "subtitle": "Jeep/ATV Kaliurang ?",
-    "description": "Kaliurang merupakan daerah wisata di sebelah utara Yogyakarta yang menawarkan berbagai wisata. Dengan Jeep dan ATV, anda akan mendapat pengalaman berbeda dalam berwisata",
+    "title": "Mau Outbound seru ",
+    "subtitle": "Outbound Sobo Kali Jetisan",
+    "description": "Suasana pedesaan dibalut dengan petualangan penuh sejarah di daerah Sleman, Yogyakarta. Cocok Untuk teambuilding dan bersenang-senang",
     "img": "/assets/images/merapiheroImage.jpg",
     "primaryAction": {
       "text": "Hubungi Kami",
@@ -37,19 +37,19 @@
     },
     "secondaryAction": {
       "text": "Instagram kami",
-      "href": "https://www.instagram.com/kodingkidsjogja"
+      "href": "https://www.instagram.com/sobokalijetisan/"
     }
   },
   "product": {
-    "title": "Kami menyediakan Jeep dan ATV",
+    "title": "Kami menyediakan paket Outbound seru ",
     "items": [
       {
-        "title": "Jeep Wisata",
+        "title": "Susur Sungai Bersejarah",
         "description": "berpetualang dengan jeep wisata dengan mengunjungi tempat-tempat seperti ... rasakan pengalaman baru dalam berwisata di kaliurang",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "ATV",
+        "title": "Makanan Pedesaan ",
         "description": "Selain dengan mobil Jeep, kami menyediakan petualangan dengan ATV. Tidak kalah seru dengan Jeep, ATV memberikan pengalaman seru dalam berwisata",
         "img": "/assets/images/product2.jpg"
       }
